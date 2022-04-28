@@ -12,6 +12,7 @@ package-lock.json
 /build
 /node_modules
 /dist
+/storybook-static
 
 # misc
 .DS_Store
