@@ -20,6 +20,7 @@
     "build-css": "node-sass ./src/styles/index.scss ./dist/index.css",
     "prepublish": "yarn build"
   },
+  "homepage": "https://whj8.github.io/?path=/story/welcome-page--welcome",
   "repository": {
     "type": "git",
     "url": "https://github.com/whj8/whj_ui"
