@@ -27,5 +27,5 @@ import { Button } from 'whj_ui'
 * 🌹Alert
 * 🎉AutoComplete
 
-### [使用文档](https://whj8.github.io/?path=/story/welcome-page--welcome)
+### [使用文档](https://whj8.github.io/?path=/story/%E5%AE%89%E8%A3%85--%E5%AE%89%E8%A3%85)
 持续更新中...
