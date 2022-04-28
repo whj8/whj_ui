@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "build",
+    "module": "esnext",
+    "target": "ES5",
+    "declaration": true,
+    "jsx": "react",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "src",
+    "paths": {
+      "@/component/*": ["component/*"],
+      "@/server/*": ["server/*"]
+    }
+  },
+  "include": [
+    "src"
+  ]
+}
