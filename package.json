@@ -1,6 +1,6 @@
 {
   "name": "whj_ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -25,7 +25,11 @@
     "type": "git",
     "url": "https://github.com/whj8/whj_ui"
   },
-  "keywords": ["react","component","whj_ui"],
+  "keywords": [
+    "react",
+    "component",
+    "whj_ui"
+  ],
   "author": "王泓钧",
   "license": "MIT",
   "files": [
